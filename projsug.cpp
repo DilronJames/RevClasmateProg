@@ -1,3 +1,8 @@
+//Dilpreet Singh
+//Education age level checker (Cool name)
+//Mrs. Alblas 2B
+//9/22/2025
+//Classmate Program:
 #include <iostream>
 using namespace std;
 
